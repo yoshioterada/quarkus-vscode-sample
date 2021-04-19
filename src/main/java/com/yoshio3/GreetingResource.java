@@ -26,4 +26,9 @@ public class GreetingResource {
 
         System.out.println(name);
     }
+
+    private void bar(){
+        System.out.println("Hello World 2");
+    }
+
 }
